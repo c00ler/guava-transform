@@ -1,0 +1,10 @@
+# IntelliJ IDEA project files #
+###############################
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Build artifacts #
+###################
+target
